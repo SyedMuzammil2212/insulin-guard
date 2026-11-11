@@ -1,0 +1,9 @@
+pandas==2.3.3
+pyarrow==22.0.0
+sqlalchemy==2.0.41
+psycopg[binary]==3.3.8
+boto3==1.40.60
+pandera[pandas]==0.26.1
+duckdb==1.4.1
+pyspark==3.5.6
+pytest==8.3.5
